@@ -27,5 +27,3 @@ if gameWon:
     print("Well done, you guessed it!")
 else:
     print(f"You failed, the word was {word}")
-
-# checking this shows up now with my new email
